@@ -1,5 +1,5 @@
 ==============================================
- Basic linux Command generate by ChatGpt
+ Basic linux Command
 ==============================================
 Command	Description
 ## Show current directory path
